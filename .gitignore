@@ -1,0 +1,14 @@
+# Fichiers de compilation Java
+*.class
+
+# Dossiers de build / sortie
+bin/
+out/
+target/
+
+# Fichiers système et IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.iml
