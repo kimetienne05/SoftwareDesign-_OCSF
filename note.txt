@@ -1,0 +1,10 @@
+javac -d bin ocsf/client/*.java ocsf/server/*.java simplechat1/common/*.java simplechat1/client/*.java simplechat1/*.java
+java -cp bin EchoServer
+java -cp bin ClientConsole localhost
+Exercice 1:
+on observe un simple début de chat
+Server listening for connections on port 5555
+Message received: oui from localhost (127.0.0.1)
+Message received: omg from localhost (127.0.0.1)
+Message received: un chat from localhost (127.0.0.1)
+Message received: exceptionnel from localhost (127.0.0.1)
