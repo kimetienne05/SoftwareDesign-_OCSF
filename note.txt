@@ -8,3 +8,5 @@ Message received: oui from localhost (127.0.0.1)
 Message received: omg from localhost (127.0.0.1)
 Message received: un chat from localhost (127.0.0.1)
 Message received: exceptionnel from localhost (127.0.0.1)
+
+Exerice 2*
